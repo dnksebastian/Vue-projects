@@ -8,15 +8,13 @@
 | Project name | Description | Repository |
 | :------------: | :-------: | :--------: |
 | TODO list | tbd  | <a href="#" target="_blank">Repo</a>  |
-| 2 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 3 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 4 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 5 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 6 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 7 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 8 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 9 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 10 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 11 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
-| 12 | <a href="#" target="_blank">Live</a>  | <a href="#" target="_blank">Repo</a>  |
+| 2 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 3 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 4 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 5 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 6 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 7 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 8 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 9 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 10 | tbd | <a href="#" target="_blank">Repo</a>  |
 </div>
