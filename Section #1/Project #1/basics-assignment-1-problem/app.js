@@ -2,7 +2,7 @@ const app = Vue.createApp({
     data() {
         return {
             myName: 'Sebastian',
-            myAge: '30',
+            myAge: 30,
             myPicture: 'https://source.unsplash.com/random/200x200',
 
         };
