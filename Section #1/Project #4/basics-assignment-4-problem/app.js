@@ -3,21 +3,29 @@ const app = Vue.createApp({
     return {
         userInput: '',
         confirmedUserInput: '',
-        isVisible: false,
+        isVisible: 'visible',
+        userColor: '',
     };
   },
   methods: {
     getUserInput(e) {
         this.userInput = e.target.value;
-        console.log(this.userInput);
+    },
+    getConfirmedInput(e) {
+        this.confirmedUserInput = e.target.value;
+        // console.log(this.confirmedUserInput);
     },
     changeVisibility() {
-        this.isVisible = !this.isVisible;
-        console.log(isVisible);
+      if (this.isVisible === 'visible') {
+        this.isVisible = 'hidden';
+      } else if (this.isVisible === 'hidden') {
+        this.isVisible = 'visible'
+      };
     },
-  },
-  computed: {
-
+    getUserColor(e) {
+      this.userColor = e.target.value;
+      console.log(this.userColor);
+    },
   },
 });
 
