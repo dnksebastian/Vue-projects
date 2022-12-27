@@ -7,8 +7,8 @@
 
 | Project name | Description | Repository |
 | :------------: | :-------: | :--------: |
-| TODO list | tbd  | <a href="#" target="_blank">Repo</a>  |
-| 2 | tbd | <a href="#" target="_blank">Repo</a>  |
+| Section #1 | Basic building blocks of Vue. Initialising Vue, DOM & declarative approach, reactivity, computed properties, watchers, data binding, event listeners, dynamic styling. | <a href="https://github.com/dnksebastian/Vue-projects/tree/main/Section%20%231" target="_blank">Repo</a>  |
+| Section #2 | Rendering conditional content and lists | <a href="#" target="_blank">Repo</a>  |
 | 3 | tbd | <a href="#" target="_blank">Repo</a>  |
 | 4 | tbd | <a href="#" target="_blank">Repo</a>  |
 | 5 | tbd | <a href="#" target="_blank">Repo</a>  |
