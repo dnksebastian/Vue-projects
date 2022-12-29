@@ -9,8 +9,8 @@
 | :------------: | :-------: | :--------: |
 | Section #1 | Basic building blocks of Vue. Initialising Vue, DOM & declarative approach, reactivity, computed properties, watchers, data binding, event listeners, dynamic styling. | <a href="https://github.com/dnksebastian/Vue-projects/tree/main/Section%20%231" target="_blank">Repo</a>  |
 | Section #2 | Rendering conditional content and lists | <a href="https://github.com/dnksebastian/Vue-projects/tree/main/Section%20%232" target="_blank">Repo</a>  |
-| Section #3 | Monster Slayer game - combining all previous concepts | <a href="#" target="_blank">Repo</a>  |
-| 4 | tbd | <a href="#" target="_blank">Repo</a>  |
+| Section #3 | Monster Slayer game - combining all previous concepts | <a href="https://github.com/dnksebastian/Vue-projects/tree/main/Section%20%233/" target="_blank">Repo</a>  |
+| Section #4 | Vue behind the scenes | <a href="https://github.com/dnksebastian/Vue-projects/tree/main/Section%20%234/" target="_blank">Repo</a>  |
 | 5 | tbd | <a href="#" target="_blank">Repo</a>  |
 | 6 | tbd | <a href="#" target="_blank">Repo</a>  |
 | 7 | tbd | <a href="#" target="_blank">Repo</a>  |
