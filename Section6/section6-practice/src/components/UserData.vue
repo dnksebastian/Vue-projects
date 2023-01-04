@@ -9,7 +9,8 @@
       <label>Age</label>
       <input type="text" v-model="enteredUserAge" />
     </div>
-    <button @click.prevent="$emit('update-data', this.enteredUserName, this.enteredUserAge)">Update data</button>
+    <!-- <button @click.prevent="$emit('update-data', this.enteredUserName, this.enteredUserAge)">Update data</button> -->
+    <button @click.prevent="updateUserData">Update data</button>
   </form>
 </template>
 
@@ -21,6 +22,11 @@ export default {
       enteredUserName: "",
       enteredUserAge: "",
     };
+  },
+  methods: {
+    updateUserData() {
+      this.$emit('update-data', this.enteredUserName, this.enteredUserAge);
+    },
   },
 };
 </script>
